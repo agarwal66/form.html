@@ -1,0 +1,15 @@
+input{
+    border:3px solid aqua;
+background-color: aquamarine;
+padding-right: 10px;
+}
+body{
+    justify-items: center;
+    background-color: aquamarine;
+padding: 10px;
+padding-bottom: 20px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
